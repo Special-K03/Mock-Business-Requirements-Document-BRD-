@@ -17,7 +17,7 @@ This repository includes three cross-functional workflow diagrams created as par
 ---
 
 ### 📌 1. Patient Check-In Workflow  
-**Diagram:** [View Patient Check-In Workflow](./diagrams/patient-check-in-workflow.png)
+**Diagram:** [](./diagrams/pt_check_in.png)
 
 This diagram illustrates the end-to-end process a patient follows when checking in at the clinic. It uses swimlanes to clearly separate responsibilities across system actors.
 
