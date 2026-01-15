@@ -1,7 +1,8 @@
-# Mock-Business-Requirements-Document-BRD-
+# Mock Business Requirements Document (BRD) for City Health Clinic
+
 The purpose of this document is to define the business requirements for implementing a patient queue management system at City Health Clinic. The system will streamline patient check‑in, prioritize returning patients, provide staff with real‑time visibility into the queue, and support SMS notifications to improve communication and reduce wait times.
 
-# Business Requirements Document (BRD)
+# **Business Requirements Document (BRD)**
 **Project Name:**  City Health Clinic BRD
 
 **Version:** 1.0  
@@ -17,7 +18,8 @@ This repository includes three cross-functional workflow diagrams created as par
 ---
 
 ### 📌 1. Patient Check-In Workflow  
-**Diagram:** [](./diagrams/pt_check_in.png)
+
+![](./diagrams/pt_check_in.png)
 
 This diagram illustrates the end-to-end process a patient follows when checking in at the clinic. It uses swimlanes to clearly separate responsibilities across system actors.
 
@@ -36,7 +38,8 @@ This diagram illustrates the end-to-end process a patient follows when checking 
 ---
 
 ### 📌 2. SMS Notification Workflow  
-**Diagram:** [View SMS Notification Workflow](./diagrams/sms-notification-workflow.png)
+
+![](./diagrams/sms_notification_workflow.png)
 
 This workflow shows how the queue system triggers and sends SMS notifications to patients based on their position in the queue or staff actions.
 
@@ -54,7 +57,8 @@ This workflow shows how the queue system triggers and sends SMS notifications to
 ---
 
 ### 📌 3. Staff Queue Management Workflow  
-**Diagram:** [View Staff Queue Management Workflow](./diagrams/staff-queue-management-workflow.png)
+ 
+![](./diagrams/staff_queue_management.png)
 
 This workflow outlines how clinic staff interact with the queue system to manage patient flow and update statuses.
 
@@ -127,9 +131,9 @@ The clinic requires a more structured, transparent, and data‑driven approach t
 •	Implementation of a digital queue management system for patient check-in at City Health Clinic.
 
 •	Support for three service types:
-    o	New Patient
-    o	Returning Patient
-    o	Prescription Pickup
+-  New Patient
+-  Returning Patient
+-  Prescription Pickup
     
 •	Configuration of a kiosk-based check-in interface for patients.
 
