@@ -1,3 +1,11 @@
+# 📦 Configuration Package – City Health Clinic Queue Management System
+## System Overview
+The City Health Clinic Queue Management System is configured to support patient check-in, queue prioritization, staff workflow management, and SMS notifications. Patients check in via kiosk, select a service type, and are placed into a prioritized queue. Staff manage patient flow through a real-time dashboard, and the system logs timestamps for reporting and operational insights.
+
+- <a href="https://github.com/Special-K03/Configuration-Package-for-CHC/tree/main">Configuration Package </a>
+
+--- 
+
 # Mock Business Requirements Document (BRD) for City Health Clinic
 
 The purpose of this document is to define the business requirements for implementing a patient queue management system at City Health Clinic. The system will streamline patient check‑in, prioritize returning patients, provide staff with real‑time visibility into the queue, and support SMS notifications to improve communication and reduce wait times.
